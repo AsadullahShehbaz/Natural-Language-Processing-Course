@@ -1,0 +1,6 @@
+ID,Noisy_Text
+1,<p>Hello <b>World!</b> This is an <a href='https://example.com'>example</a>.</p>
+2,<div>Breaking News: <i>Big event happening now!</i> &#128512; </div>
+3,<html><body><h1>Welcome to NLP</h1><p>Learn AI &amp; ML.</p></body></html>
+4,<span style='color:red;'>Error! 404 <br> Page Not Found.</span>
+5,Check this out: <script>alert('Hacked!');</script> Click <a href='spam.com'>here</a>!
